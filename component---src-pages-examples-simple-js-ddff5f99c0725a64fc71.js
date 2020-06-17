@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[47],{699:function(e,n,t){"use strict";t.r(n);var l=t(0),a=t.n(l);n.default=function(){return a.a.createElement("div",null,a.a.createElement("h1",null,"The simplest page possible"),a.a.createElement("p",null,"Just for testing."))}}}]);
+//# sourceMappingURL=component---src-pages-examples-simple-js-ddff5f99c0725a64fc71.js.map
